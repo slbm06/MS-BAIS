@@ -1,0 +1,81 @@
+rm(list=ls())
+library(rio)
+library(moments)
+mydata=import("Assignment Data.xlsx")
+attach(mydata)
+
+str(mydata)
+mydata
+head(mydata)
+tail(mydata)
+
+# Question 1 -- Check for normality
+# Checking normality for the Harpo column
+hist(Harpo,col="cadetblue2",xlim=c(0,25),ylim=c(0,0.25),probability = TRUE)
+curve(dnorm(x,mean(Harpo), sd(Harpo)),lwd=3,col="magenta",add=TRUE)
+boxplot(Harpo,col="cadetblue2",pch=19,main="Box Plot for Harpo")
+qqnorm(Harpo,pch=19,main="QQ Plot/Line for Harpo")
+qqline(Harpo,pch=19,lwd=3,col="magenta")
+skewness(Harpo)
+kurtosis(Harpo)
+mean(Harpo)
+median(Harpo)
+
+
+# Checking normality for the Zeppo column
+hist(Zeppo,col="cadetblue2",probability = TRUE)
+curve(dnorm(x,mean(Zeppo), sd(Zeppo)), from=min(Zeppo), to=max(Zeppo) ,lwd=3,col="magenta",add=TRUE)
+boxplot(Zeppo,col="cadetblue2",pch=19,main="Box Plot for Zeppo")
+qqnorm(Zeppo,pch=19,main="QQ Plot/Line for Zeppo")
+qqline(Zeppo,pch=19,lwd=3,col="magenta")
+skewness(Zeppo)
+kurtosis(Zeppo)
+mean(Zeppo)
+median(Zeppo)
+
+# Checking normality for the Groucho column
+hist(Groucho,col="cadetblue2",probability = TRUE,xlim=c(5,25),ylim=c(0,0.15))
+curve(dnorm(x,mean(Groucho), sd(Groucho)), from=5, to=25 ,lwd=3,col="magenta",add=TRUE)
+boxplot(Groucho,col="cadetblue2",pch=19,main="Box Plot for Groucho")
+qqnorm(Groucho,pch=19,main="QQ Plot/Line for Groucho")
+qqline(Groucho,pch=19,lwd=3,col="magenta")
+skewness(Groucho)
+kurtosis(Groucho)
+mean(Groucho)
+median(Groucho)
+
+# Checking normality for the Chico column
+hist(Chico,col="cadetblue2",xlim=c(45,52),ylim=c(0,2.5),probability = TRUE)
+curve(dnorm(x,mean(Chico), sd(Chico)), from=45, to=52 ,lwd=3,col="magenta",add=TRUE)
+boxplot(Chico,col="cadetblue2",pch=19,main="Box Plot for Chico")
+qqnorm(Chico,pch=19,main="QQ Plot/Line for Chico")
+qqline(Chico,pch=19,lwd=3,col="magenta")
+skewness(Chico)
+kurtosis(Chico)
+mean(Chico)
+median(Chico)
+
+# Question 2 -- Build a sampling distribution from the Groucho column
+# Populate a new data frame with the 1000 sample means (n=25, Groucho column=3rd)
+set.seed(6933)
+mysample.groucho=data.frame()
+for(i in 1:1000) {
+  mysample.groucho[i,1]=mean(mydata[sample(1:nrow(mydata),25),3])
+}
+
+#Check the data in the new data frame
+str(mysample.groucho)
+colnames(mysample.groucho)="means"
+attach(mysample.groucho)
+
+# Check for normality
+hist(means,col="steelblue")
+plot(density(means),lwd=6,col="steelblue",main="Density Plot")
+boxplot(means,col="steelblue",pch=19,main="Box Plot for means of means of Groucho")
+qqnorm(means,pch=19,main="QQ Plot/Line for Groucho")
+qqline(means,pch=19,lwd=3,col="magenta")
+skewness(means)
+kurtosis(means)
+mean(means)
+median(means)
+
