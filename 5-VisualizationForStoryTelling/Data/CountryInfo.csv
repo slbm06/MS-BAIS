@@ -1,0 +1,247 @@
+﻿Continent (CountryInfo),CountryCode (CountryInfo),CountryName (CountryInfo),Land Locked Developing Countries (LLDC) (CountryInfo),Least Developed Countries (LDC) (CountryInfo),Small Island Developing States (SIDS) (CountryInfo),SubRegionName (CountryInfo)
+Asia,AFG,Afghanistan,x,x,,Southern Asia
+Europe,ALB,Albania,,,,Southern Europe
+Africa,DZA,Algeria,,,,Northern Africa
+Oceania,ASM,American Samoa,,,x,Polynesia
+Europe,AND,Andorra,,,,Southern Europe
+Africa,AGO,Angola,,x,,Sub-Saharan Africa
+Americas,AIA,Anguilla,,,x,Latin America and the Caribbean
+Americas,ATG,Antigua and Barbuda,,,x,Latin America and the Caribbean
+Americas,ARG,Argentina,,,,Latin America and the Caribbean
+Asia,ARM,Armenia,x,,,Western Asia
+Americas,ABW,Aruba,,,x,Latin America and the Caribbean
+Oceania,AUS,Australia,,,,Australia and New Zealand
+Europe,AUT,Austria,,,,Western Europe
+Asia,AZE,Azerbaijan,x,,,Western Asia
+Americas,BHS,Bahamas,,,x,Latin America and the Caribbean
+Asia,BHR,Bahrain,,,,Western Asia
+Asia,BGD,Bangladesh,,x,,Southern Asia
+Americas,BRB,Barbados,,,x,Latin America and the Caribbean
+Europe,BLR,Belarus,,,,Eastern Europe
+Europe,BEL,Belgium,,,,Western Europe
+Americas,BLZ,Belize,,,x,Latin America and the Caribbean
+Africa,BEN,Benin,,x,,Sub-Saharan Africa
+Americas,BMU,Bermuda,,,,Northern America
+Asia,BTN,Bhutan,x,x,,Southern Asia
+Americas,BOL,Bolivia (Plurinational State of),x,,,Latin America and the Caribbean
+Americas,BES,"Bonaire, Sint Eustatius and Saba",,,x,Latin America and the Caribbean
+Europe,BIH,Bosnia and Herzegovina,,,,Southern Europe
+Africa,BWA,Botswana,x,,,Sub-Saharan Africa
+Americas,BVT,Bouvet Island,,,,Latin America and the Caribbean
+Americas,BRA,Brazil,,,,Latin America and the Caribbean
+Africa,IOT,British Indian Ocean Territory,,,,Sub-Saharan Africa
+Americas,VGB,British Virgin Islands,,,x,Latin America and the Caribbean
+Asia,BRN,Brunei Darussalam,,,,South-eastern Asia
+Europe,BGR,Bulgaria,,,,Eastern Europe
+Africa,BFA,Burkina Faso,x,x,,Sub-Saharan Africa
+Africa,BDI,Burundi,x,x,,Sub-Saharan Africa
+Africa,CPV,Cabo Verde,,,x,Sub-Saharan Africa
+Asia,KHM,Cambodia,,x,,South-eastern Asia
+Africa,CMR,Cameroon,,,,Sub-Saharan Africa
+Americas,CAN,Canada,,,,Northern America
+Americas,CYM,Cayman Islands,,,,Latin America and the Caribbean
+Africa,CAF,Central African Republic,x,x,,Sub-Saharan Africa
+Africa,TCD,Chad,x,x,,Sub-Saharan Africa
+Americas,CHL,Chile,,,,Latin America and the Caribbean
+Asia,CHN,China,,,,Eastern Asia
+Asia,HKG,"China, Hong Kong Special Administrative Region",,,,Eastern Asia
+Asia,MAC,"China, Macao Special Administrative Region",,,,Eastern Asia
+Oceania,CXR,Christmas Island,,,,Australia and New Zealand
+Oceania,CCK,Cocos (Keeling) Islands,,,,Australia and New Zealand
+Americas,COL,Colombia,,,,Latin America and the Caribbean
+Africa,COM,Comoros,,x,x,Sub-Saharan Africa
+Africa,COG,Congo,,,,Sub-Saharan Africa
+Oceania,COK,Cook Islands,,,x,Polynesia
+Americas,CRI,Costa Rica,,,,Latin America and the Caribbean
+Africa,CIV,Côte d’Ivoire,,,,Sub-Saharan Africa
+Europe,HRV,Croatia,,,,Southern Europe
+Americas,CUB,Cuba,,,x,Latin America and the Caribbean
+Americas,CUW,Curaçao,,,x,Latin America and the Caribbean
+Asia,CYP,Cyprus,,,,Western Asia
+Europe,CZE,Czechia,,,,Eastern Europe
+Asia,PRK,Democratic People's Republic of Korea,,,,Eastern Asia
+Africa,COD,Democratic Republic of the Congo,,x,,Sub-Saharan Africa
+Europe,DNK,Denmark,,,,Northern Europe
+Africa,DJI,Djibouti,,x,,Sub-Saharan Africa
+Americas,DMA,Dominica,,,x,Latin America and the Caribbean
+Americas,DOM,Dominican Republic,,,x,Latin America and the Caribbean
+Americas,ECU,Ecuador,,,,Latin America and the Caribbean
+Africa,EGY,Egypt,,,,Northern Africa
+Americas,SLV,El Salvador,,,,Latin America and the Caribbean
+Africa,GNQ,Equatorial Guinea,,,,Sub-Saharan Africa
+Africa,ERI,Eritrea,,x,,Sub-Saharan Africa
+Europe,EST,Estonia,,,,Northern Europe
+Africa,SWZ,Eswatini,x,,,Sub-Saharan Africa
+Africa,ETH,Ethiopia,x,x,,Sub-Saharan Africa
+Americas,FLK,Falkland Islands (Malvinas),,,,Latin America and the Caribbean
+Europe,FRO,Faroe Islands,,,,Northern Europe
+Oceania,FJI,Fiji,,,x,Melanesia
+Europe,FIN,Finland,,,,Northern Europe
+Europe,FRA,France,,,,Western Europe
+Americas,GUF,French Guiana,,,,Latin America and the Caribbean
+Oceania,PYF,French Polynesia,,,x,Polynesia
+Africa,ATF,French Southern Territories,,,,Sub-Saharan Africa
+Africa,GAB,Gabon,,,,Sub-Saharan Africa
+Africa,GMB,Gambia,,x,,Sub-Saharan Africa
+Asia,GEO,Georgia,,,,Western Asia
+Europe,DEU,Germany,,,,Western Europe
+Africa,GHA,Ghana,,,,Sub-Saharan Africa
+Europe,GIB,Gibraltar,,,,Southern Europe
+Europe,GRC,Greece,,,,Southern Europe
+Americas,GRL,Greenland,,,,Northern America
+Americas,GRD,Grenada,,,x,Latin America and the Caribbean
+Americas,GLP,Guadeloupe,,,,Latin America and the Caribbean
+Oceania,GUM,Guam,,,x,Micronesia
+Americas,GTM,Guatemala,,,,Latin America and the Caribbean
+Europe,GGY,Guernsey,,,,Northern Europe
+Africa,GIN,Guinea,,x,,Sub-Saharan Africa
+Africa,GNB,Guinea-Bissau,,x,x,Sub-Saharan Africa
+Americas,GUY,Guyana,,,x,Latin America and the Caribbean
+Americas,HTI,Haiti,,x,x,Latin America and the Caribbean
+Oceania,HMD,Heard Island and McDonald Islands,,,,Australia and New Zealand
+Europe,VAT,Holy See,,,,Southern Europe
+Americas,HND,Honduras,,,,Latin America and the Caribbean
+Europe,HUN,Hungary,,,,Eastern Europe
+Europe,ISL,Iceland,,,,Northern Europe
+Asia,IND,India,,,,Southern Asia
+Asia,IDN,Indonesia,,,,South-eastern Asia
+Asia,IRN,Iran (Islamic Republic of),,,,Southern Asia
+Asia,IRQ,Iraq,,,,Western Asia
+Europe,IRL,Ireland,,,,Northern Europe
+Europe,IMN,Isle of Man,,,,Northern Europe
+Asia,ISR,Israel,,,,Western Asia
+Europe,ITA,Italy,,,,Southern Europe
+Americas,JAM,Jamaica,,,x,Latin America and the Caribbean
+Asia,JPN,Japan,,,,Eastern Asia
+Europe,JEY,Jersey,,,,Northern Europe
+Asia,JOR,Jordan,,,,Western Asia
+Asia,KAZ,Kazakhstan,x,,,Central Asia
+Africa,KEN,Kenya,,,,Sub-Saharan Africa
+Oceania,KIR,Kiribati,,x,x,Micronesia
+Asia,KWT,Kuwait,,,,Western Asia
+Asia,KGZ,Kyrgyzstan,x,,,Central Asia
+Asia,LAO,Lao People's Democratic Republic,x,x,,South-eastern Asia
+Europe,LVA,Latvia,,,,Northern Europe
+Asia,LBN,Lebanon,,,,Western Asia
+Africa,LSO,Lesotho,x,x,,Sub-Saharan Africa
+Africa,LBR,Liberia,,x,,Sub-Saharan Africa
+Africa,LBY,Libya,,,,Northern Africa
+Europe,LIE,Liechtenstein,,,,Western Europe
+Europe,LTU,Lithuania,,,,Northern Europe
+Europe,LUX,Luxembourg,,,,Western Europe
+Africa,MDG,Madagascar,,x,,Sub-Saharan Africa
+Africa,MWI,Malawi,x,x,,Sub-Saharan Africa
+Asia,MYS,Malaysia,,,,South-eastern Asia
+Asia,MDV,Maldives,,,x,Southern Asia
+Africa,MLI,Mali,x,x,,Sub-Saharan Africa
+Europe,MLT,Malta,,,,Southern Europe
+Oceania,MHL,Marshall Islands,,,x,Micronesia
+Americas,MTQ,Martinique,,,,Latin America and the Caribbean
+Africa,MRT,Mauritania,,x,,Sub-Saharan Africa
+Africa,MUS,Mauritius,,,x,Sub-Saharan Africa
+Africa,MYT,Mayotte,,,,Sub-Saharan Africa
+Americas,MEX,Mexico,,,,Latin America and the Caribbean
+Oceania,FSM,Micronesia (Federated States of),,,x,Micronesia
+Europe,MCO,Monaco,,,,Western Europe
+Asia,MNG,Mongolia,x,,,Eastern Asia
+Europe,MNE,Montenegro,,,,Southern Europe
+Americas,MSR,Montserrat,,,x,Latin America and the Caribbean
+Africa,MAR,Morocco,,,,Northern Africa
+Africa,MOZ,Mozambique,,x,,Sub-Saharan Africa
+Asia,MMR,Myanmar,,x,,South-eastern Asia
+Africa,NAM,Namibia,,,,Sub-Saharan Africa
+Oceania,NRU,Nauru,,,x,Micronesia
+Asia,NPL,Nepal,x,x,,Southern Asia
+Europe,NLD,Netherlands,,,,Western Europe
+Oceania,NCL,New Caledonia,,,x,Melanesia
+Oceania,NZL,New Zealand,,,,Australia and New Zealand
+Americas,NIC,Nicaragua,,,,Latin America and the Caribbean
+Africa,NER,Niger,x,x,,Sub-Saharan Africa
+Africa,NGA,Nigeria,,,,Sub-Saharan Africa
+Oceania,NIU,Niue,,,x,Polynesia
+Oceania,NFK,Norfolk Island,,,,Australia and New Zealand
+Europe,MKD,North Macedonia,x,,,Southern Europe
+Oceania,MNP,Northern Mariana Islands,,,x,Micronesia
+Europe,NOR,Norway,,,,Northern Europe
+Asia,OMN,Oman,,,,Western Asia
+Asia,PAK,Pakistan,,,,Southern Asia
+Oceania,PLW,Palau,,,x,Micronesia
+Americas,PAN,Panama,,,,Latin America and the Caribbean
+Oceania,PNG,Papua New Guinea,,,x,Melanesia
+Americas,PRY,Paraguay,x,,,Latin America and the Caribbean
+Americas,PER,Peru,,,,Latin America and the Caribbean
+Asia,PHL,Philippines,,,,South-eastern Asia
+Oceania,PCN,Pitcairn,,,,Polynesia
+Europe,POL,Poland,,,,Eastern Europe
+Europe,PRT,Portugal,,,,Southern Europe
+Americas,PRI,Puerto Rico,,,x,Latin America and the Caribbean
+Asia,QAT,Qatar,,,,Western Asia
+Asia,KOR,Republic of Korea,,,,Eastern Asia
+Europe,MDA,Republic of Moldova,x,,,Eastern Europe
+Africa,REU,Réunion,,,,Sub-Saharan Africa
+Europe,ROU,Romania,,,,Eastern Europe
+Europe,RUS,Russian Federation,,,,Eastern Europe
+Africa,RWA,Rwanda,x,x,,Sub-Saharan Africa
+Americas,BLM,Saint Barthélemy,,,,Latin America and the Caribbean
+Africa,SHN,Saint Helena,,,,Sub-Saharan Africa
+Americas,KNA,Saint Kitts and Nevis,,,x,Latin America and the Caribbean
+Americas,LCA,Saint Lucia,,,x,Latin America and the Caribbean
+Americas,MAF,Saint Martin (French Part),,,,Latin America and the Caribbean
+Americas,SPM,Saint Pierre and Miquelon,,,,Northern America
+Americas,VCT,Saint Vincent and the Grenadines,,,x,Latin America and the Caribbean
+Oceania,WSM,Samoa,,,x,Polynesia
+Europe,SMR,San Marino,,,,Southern Europe
+Africa,STP,Sao Tome and Principe,,x,x,Sub-Saharan Africa
+Asia,SAU,Saudi Arabia,,,,Western Asia
+Africa,SEN,Senegal,,x,,Sub-Saharan Africa
+Europe,SRB,Serbia,,,,Southern Europe
+Africa,SYC,Seychelles,,,x,Sub-Saharan Africa
+Africa,SLE,Sierra Leone,,x,,Sub-Saharan Africa
+Asia,SGP,Singapore,,,x,South-eastern Asia
+Americas,SXM,Sint Maarten (Dutch part),,,x,Latin America and the Caribbean
+Europe,SVK,Slovakia,,,,Eastern Europe
+Europe,SVN,Slovenia,,,,Southern Europe
+Oceania,SLB,Solomon Islands,,x,x,Melanesia
+Africa,SOM,Somalia,,x,,Sub-Saharan Africa
+Africa,ZAF,South Africa,,,,Sub-Saharan Africa
+Americas,SGS,South Georgia and the South Sandwich Islands,,,,Latin America and the Caribbean
+Africa,SSD,South Sudan,x,x,,Sub-Saharan Africa
+Europe,ESP,Spain,,,,Southern Europe
+Asia,LKA,Sri Lanka,,,,Southern Asia
+Asia,PSE,State of Palestine,,,,Western Asia
+Africa,SDN,Sudan,,x,,Northern Africa
+Americas,SUR,Suriname,,,x,Latin America and the Caribbean
+Europe,SJM,Svalbard and Jan Mayen Islands,,,,Northern Europe
+Europe,SWE,Sweden,,,,Northern Europe
+Europe,CHE,Switzerland,,,,Western Europe
+Asia,SYR,Syrian Arab Republic,,,,Western Asia
+Asia,TJK,Tajikistan,x,,,Central Asia
+Asia,THA,Thailand,,,,South-eastern Asia
+Asia,TLS,Timor-Leste,,x,x,South-eastern Asia
+Africa,TGO,Togo,,x,,Sub-Saharan Africa
+Oceania,TKL,Tokelau,,,,Polynesia
+Oceania,TON,Tonga,,,x,Polynesia
+Americas,TTO,Trinidad and Tobago,,,x,Latin America and the Caribbean
+Africa,TUN,Tunisia,,,,Northern Africa
+Asia,TUR,Türkiye,,,,Western Asia
+Asia,TKM,Turkmenistan,x,,,Central Asia
+Americas,TCA,Turks and Caicos Islands,,,,Latin America and the Caribbean
+Oceania,TUV,Tuvalu,,x,x,Polynesia
+Africa,UGA,Uganda,x,x,,Sub-Saharan Africa
+Europe,UKR,Ukraine,,,,Eastern Europe
+Asia,ARE,United Arab Emirates,,,,Western Asia
+Europe,GBR,United Kingdom of Great Britain and Northern Ireland,,,,Northern Europe
+Africa,TZA,United Republic of Tanzania,,x,,Sub-Saharan Africa
+Oceania,UMI,United States Minor Outlying Islands,,,,Micronesia
+Americas,USA,United States of America,,,,Northern America
+Americas,VIR,United States Virgin Islands,,,x,Latin America and the Caribbean
+Americas,URY,Uruguay,,,,Latin America and the Caribbean
+Asia,UZB,Uzbekistan,x,,,Central Asia
+Oceania,VUT,Vanuatu,,,x,Melanesia
+Americas,VEN,Venezuela (Bolivarian Republic of),,,,Latin America and the Caribbean
+Asia,VNM,Viet Nam,,,,South-eastern Asia
+Oceania,WLF,Wallis and Futuna Islands,,,,Polynesia
+Africa,ESH,Western Sahara,,,,Northern Africa
+Asia,YEM,Yemen,,x,,Western Asia
+Africa,ZMB,Zambia,x,x,,Sub-Saharan Africa
+Africa,ZWE,Zimbabwe,x,,,Sub-Saharan Africa
